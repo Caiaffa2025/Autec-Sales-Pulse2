@@ -1,0 +1,6 @@
+{
+  "name": "Autec Sales Pulse",
+  "description": "Plataforma de Inteligência Comercial, CRM e Gestão de Performance para Autec Equipamentos de Laboratório — Agência STC Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
